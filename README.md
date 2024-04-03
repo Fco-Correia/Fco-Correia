@@ -1,4 +1,4 @@
-Francisco Correia
+FRANCISCO CORREIA
 
 Computer Science student at the State University of Piauí. Familiarity in web development, with programming languages such as Python and JavaScript, as well as technologies like Node.js, Express, and Socket.io.
 <div align="center">
