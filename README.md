@@ -1,6 +1,5 @@
 <h1>Francisco Correia</h1>
 
-<h4>Computer Science student at the State University of Piauí. Familiarity in web development, with programming languages such as Python and JavaScript, as well as technologies like Node.js, Express, and Socket.io.</h4>
 <div align="center">
   <a href="https://github.com/Fco-Correia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fco-Correia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
